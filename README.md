@@ -6,4 +6,4 @@
 - singlepage-layout
     - シングルページレイアウト
 - react-practice
-    - React学習用
+    - [React学習用](https://egghead.io/courses/the-beginner-s-guide-to-react)
