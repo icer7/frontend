@@ -1,4 +1,9 @@
 # frontendの学習用リポジトリ
-- スタンダードレイアウト
-- グリッドレイアウト
-- シングルページレイアウト
+- standard-layout
+    - スタンダードレイアウト
+- grid-layout
+    - グリッドレイアウト
+- singlepage-layout
+    - シングルページレイアウト
+- react-practice
+    - React学習用
