@@ -7,3 +7,6 @@
     - シングルページレイアウト
 - react-practice
     - [React学習用](https://egghead.io/courses/the-beginner-s-guide-to-react)
+    - [参考](https://qiita.com/park-jh/items/63bf0f013c998c5572aa)
+- rust-practice
+    - [Rust学習用](https://egghead.io/courses/write-your-first-program-with-the-rust-language)
